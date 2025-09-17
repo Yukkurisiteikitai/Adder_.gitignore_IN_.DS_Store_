@@ -1,0 +1,2 @@
+# Adder_.gitignore_IN_.DS_Store_
+.gitignoreの中に.DS_Storeがあった場合にセキュリティー的にまずいみたいな話を聞いたので消しとばすためのもの
